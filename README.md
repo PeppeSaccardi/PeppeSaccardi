@@ -2,7 +2,7 @@
 
 - 🔭 I'm working as __Machine Learning Specialist__ for an Italian [streaming platform startup](https://www.vvvvid.it/). At the moment I'm busy with the design and the development of several Machine Learning algorithms, in particular in the Computer Vision field: image and video segmentation, video matting, video super-resolution
 - ⚡ I'm very passionate about __Self-Supervised methods__, in particular in *learning useful audio-visual representations* using contrastive and non-contrastive methods
-- 🤗 Soon I will deepen the study of __NLP__ techniques
+- 🤗 Meanwhile I'm trying to deepen the state-of-the-art __NLP__ techniques from both a theoretical and technical point of view
  
 
 <!--
